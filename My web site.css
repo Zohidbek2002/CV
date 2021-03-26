@@ -1,0 +1,82 @@
+.Z{
+    color: blue;
+    font-style: italic;
+}
+.Zohidbek{
+    color: blue;
+    font-style: italic;
+    font-weight: bold;
+}
+.sinf{
+    background-image: url("Developer2.jfif");
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 300px;
+    padding-top: 150px;
+    font-style: italic;
+    object-fit: cover;
+    padding-top: 100px;
+    
+}
+.A{
+    border-radius: 40px;
+    width: 350px;
+    height: 200px;
+    object-fit: cover;
+}
+.q{
+    margin-right: 50%;
+}
+.w{
+    display: inline;
+}
+.box{
+    background-color: rgba(255, 255, 255,0.7);
+    max-width: 150px;
+    min-height: 10px;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 50px;
+}
+a:first-child{
+    color: blue;
+    font-style: italic;
+    text-decoration: none;
+}
+.X{
+    background-image: url("Developer5.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    font-style: italic;
+    object-fit: cover;
+    width: 300px;
+    padding-top: 90px;
+}
+.C{
+    background-color: rgba(255, 255, 255,0.7);
+    max-width: 150px;
+    min-height: 10px;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 50px;
+}
+.P{
+    padding: 50px;
+}
+.N{
+    background-image: url("Developer7.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    font-style: italic;
+    object-fit: cover;
+    width: 300px;
+    padding-top: 90px;
+}
+.B{
+    background-color: rgba(255, 255, 255,0.7);
+    max-width: 150px;
+    min-height: 10px;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 50px;
+}
